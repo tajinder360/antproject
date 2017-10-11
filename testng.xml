@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="ant"/>
+      <class name="CopyOfant"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

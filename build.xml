@@ -27,7 +27,7 @@
  -->
   
 	<target name="compile" depends="create">
-		<javac classpathref="classpath" srcdir="E:/Tajinder/Selenium/antproject/src" destdir="E:/Tajinder/Selenium/antproject/bin" includes="**/*.java" includeantruntime="true" />
+		<javac classpathref="classpath" srcdir="E:/Tajinder/Selenium/git project/antproject/src" destdir="E:/Tajinder/Selenium/git project/antproject/bin" includes="**/*.java" includeantruntime="true" />
 	</target>
 
 	
